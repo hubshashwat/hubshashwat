@@ -1,16 +1,15 @@
-## Hi there 👋
+I'm Shashwat, a programmer based in India.
 
-<!--
-**hubshashwat/hubshashwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Python, VueJS
+* **ETL:** Apache Airflow, Netflix Conductor
+* **Databases/Datawarehouses/Caches:** MySQL, PostgreSQL, Snowflake, Redis
+* **Cloud:** AWS
+* **Frameworks:** FastAPI
+
+---
+
+* **Portfolio, cum dump:** [**hubshashwat.github.io**](https://hubshashwat.github.io)
